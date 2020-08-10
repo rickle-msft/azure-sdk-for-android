@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":sdk:communication:azure-communication-chat:dokkaHtml/debug": [], ":sdk:communication:azure-communication-chat:dokkaHtml/main": [], ":sdk:communication:azure-communication-chat:dokkaHtml/release": []}'
